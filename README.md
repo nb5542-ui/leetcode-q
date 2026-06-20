@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/nb5542-ui/leetcode-q/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nb5542-ui/leetcode-q/tree/master/0015-3sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nb5542-ui/leetcode-q/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/nb5542-ui/leetcode-q/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/nb5542-ui/leetcode-q/tree/master/0349-intersection-of-two-arrays) |
@@ -76,4 +77,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/nb5542-ui/leetcode-q/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nb5542-ui/leetcode-q/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nb5542-ui/leetcode-q/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nb5542-ui/leetcode-q/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
