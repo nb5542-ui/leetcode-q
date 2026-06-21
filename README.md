@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nb5542-ui/leetcode-q/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nb5542-ui/leetcode-q/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/nb5542-ui/leetcode-q/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/nb5542-ui/leetcode-q/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0088-merge-sorted-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/nb5542-ui/leetcode-q/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/nb5542-ui/leetcode-q/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0350-intersection-of-two-arrays-ii) |
