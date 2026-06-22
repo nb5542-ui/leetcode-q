@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/nb5542-ui/leetcode-q/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0119-pascals-triangle-ii) |
+| [0204-count-primes](https://github.com/nb5542-ui/leetcode-q/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/nb5542-ui/leetcode-q/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/nb5542-ui/leetcode-q/tree/master/0283-move-zeroes) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/nb5542-ui/leetcode-q/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nb5542-ui/leetcode-q/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/nb5542-ui/leetcode-q/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/nb5542-ui/leetcode-q/tree/master/0204-count-primes) |
 ## String
 |  |
 | ------- |
@@ -105,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/nb5542-ui/leetcode-q/tree/master/0203-remove-linked-list-elements) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nb5542-ui/leetcode-q/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nb5542-ui/leetcode-q/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
