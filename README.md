@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nb5542-ui/leetcode-q/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/nb5542-ui/leetcode-q/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/nb5542-ui/leetcode-q/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/nb5542-ui/leetcode-q/tree/master/0495-teemo-attacking) |
 ## Simulation
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/nb5542-ui/leetcode-q/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/nb5542-ui/leetcode-q/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/nb5542-ui/leetcode-q/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nb5542-ui/leetcode-q/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/nb5542-ui/leetcode-q/tree/master/0389-find-the-difference) |
+| [0455-assign-cookies](https://github.com/nb5542-ui/leetcode-q/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/nb5542-ui/leetcode-q/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/nb5542-ui/leetcode-q/tree/master/0055-jump-game) |
+| [0455-assign-cookies](https://github.com/nb5542-ui/leetcode-q/tree/master/0455-assign-cookies) |
 ## Math
 |  |
 | ------- |
