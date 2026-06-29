@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nb5542-ui/leetcode-q/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/nb5542-ui/leetcode-q/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/nb5542-ui/leetcode-q/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/nb5542-ui/leetcode-q/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/nb5542-ui/leetcode-q/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nb5542-ui/leetcode-q/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/nb5542-ui/leetcode-q/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/nb5542-ui/leetcode-q/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/nb5542-ui/leetcode-q/tree/master/0231-power-of-two) |
 ## Enumeration
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/nb5542-ui/leetcode-q/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/nb5542-ui/leetcode-q/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/nb5542-ui/leetcode-q/tree/master/0645-set-mismatch) |
 ## Counting Sort
