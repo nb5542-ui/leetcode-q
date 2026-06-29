@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nb5542-ui/leetcode-q/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/nb5542-ui/leetcode-q/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/nb5542-ui/leetcode-q/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/nb5542-ui/leetcode-q/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/nb5542-ui/leetcode-q/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/nb5542-ui/leetcode-q/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/nb5542-ui/leetcode-q/tree/master/0263-ugly-number) |
@@ -180,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/nb5542-ui/leetcode-q/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/nb5542-ui/leetcode-q/tree/master/0374-guess-number-higher-or-lower) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/nb5542-ui/leetcode-q/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
