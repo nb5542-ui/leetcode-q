@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/nb5542-ui/leetcode-q/tree/master/0495-teemo-attacking) |
 | [0561-array-partition](https://github.com/nb5542-ui/leetcode-q/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nb5542-ui/leetcode-q/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/nb5542-ui/leetcode-q/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/nb5542-ui/leetcode-q/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/nb5542-ui/leetcode-q/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nb5542-ui/leetcode-q/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nb5542-ui/leetcode-q/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/nb5542-ui/leetcode-q/tree/master/0643-maximum-average-subarray-i) |
 ## Greedy
 |  |
 | ------- |
