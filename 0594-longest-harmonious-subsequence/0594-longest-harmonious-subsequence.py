@@ -1,0 +1,15 @@
+from collections import Counter
+
+class Solution(object):
+    def findLHS(self, nums):
+
+        freq = Counter(nums)
+
+        ans = 0
+
+        for num in freq:
+
+            if num + 1 in freq:
+                ans = max(ans, freq[num] + freq[num + 1])
+
+        return ans
