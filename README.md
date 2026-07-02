@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/nb5542-ui/leetcode-q/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/nb5542-ui/leetcode-q/tree/master/0495-teemo-attacking) |
 | [0561-array-partition](https://github.com/nb5542-ui/leetcode-q/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/nb5542-ui/leetcode-q/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nb5542-ui/leetcode-q/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/nb5542-ui/leetcode-q/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/nb5542-ui/leetcode-q/tree/master/0645-set-mismatch) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/nb5542-ui/leetcode-q/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/nb5542-ui/leetcode-q/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/nb5542-ui/leetcode-q/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/nb5542-ui/leetcode-q/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nb5542-ui/leetcode-q/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/nb5542-ui/leetcode-q/tree/master/0645-set-mismatch) |
 ## Dynamic Programming
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/nb5542-ui/leetcode-q/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/nb5542-ui/leetcode-q/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/nb5542-ui/leetcode-q/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/nb5542-ui/leetcode-q/tree/master/0645-set-mismatch) |
 ## Sliding Window
 |  |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/nb5542-ui/leetcode-q/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/nb5542-ui/leetcode-q/tree/master/0424-longest-repeating-character-replacement) |
+| [0594-longest-harmonious-subsequence](https://github.com/nb5542-ui/leetcode-q/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/nb5542-ui/leetcode-q/tree/master/0643-maximum-average-subarray-i) |
 ## Greedy
 |  |
@@ -189,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/nb5542-ui/leetcode-q/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/nb5542-ui/leetcode-q/tree/master/0594-longest-harmonious-subsequence) |
 ## Interactive
 |  |
 | ------- |
