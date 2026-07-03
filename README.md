@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/nb5542-ui/leetcode-q/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/nb5542-ui/leetcode-q/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/nb5542-ui/leetcode-q/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/nb5542-ui/leetcode-q/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nb5542-ui/leetcode-q/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Simulation
 |  |
@@ -203,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/nb5542-ui/leetcode-q/tree/master/0223-rectangle-area) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/nb5542-ui/leetcode-q/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
