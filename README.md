@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/nb5542-ui/leetcode-q/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/nb5542-ui/leetcode-q/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/nb5542-ui/leetcode-q/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/nb5542-ui/leetcode-q/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/nb5542-ui/leetcode-q/tree/master/0389-find-the-difference) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/nb5542-ui/leetcode-q/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/nb5542-ui/leetcode-q/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/nb5542-ui/leetcode-q/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/nb5542-ui/leetcode-q/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/nb5542-ui/leetcode-q/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/nb5542-ui/leetcode-q/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/nb5542-ui/leetcode-q/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/nb5542-ui/leetcode-q/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/nb5542-ui/leetcode-q/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nb5542-ui/leetcode-q/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/nb5542-ui/leetcode-q/tree/master/0387-first-unique-character-in-a-string) |
