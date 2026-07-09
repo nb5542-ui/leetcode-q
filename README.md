@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/nb5542-ui/leetcode-q/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/nb5542-ui/leetcode-q/tree/master/0645-set-mismatch) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nb5542-ui/leetcode-q/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/nb5542-ui/leetcode-q/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/nb5542-ui/leetcode-q/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/nb5542-ui/leetcode-q/tree/master/0643-maximum-average-subarray-i) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nb5542-ui/leetcode-q/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Greedy
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/nb5542-ui/leetcode-q/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nb5542-ui/leetcode-q/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0848-shifting-letters](https://github.com/nb5542-ui/leetcode-q/tree/master/0848-shifting-letters) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nb5542-ui/leetcode-q/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## String Matching
 |  |
 | ------- |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/nb5542-ui/leetcode-q/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/nb5542-ui/leetcode-q/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/nb5542-ui/leetcode-q/tree/master/0594-longest-harmonious-subsequence) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nb5542-ui/leetcode-q/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Interactive
 |  |
 | ------- |
