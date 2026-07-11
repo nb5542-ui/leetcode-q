@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/nb5542-ui/leetcode-q/tree/master/0055-jump-game) |
 | [0119-pascals-triangle-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0119-pascals-triangle-ii) |
 | [0264-ugly-number-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0264-ugly-number-ii) |
+| [0338-counting-bits](https://github.com/nb5542-ui/leetcode-q/tree/master/0338-counting-bits) |
 ## Hash Table
 |  |
 | ------- |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/nb5542-ui/leetcode-q/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/nb5542-ui/leetcode-q/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/nb5542-ui/leetcode-q/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/nb5542-ui/leetcode-q/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/nb5542-ui/leetcode-q/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/nb5542-ui/leetcode-q/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/nb5542-ui/leetcode-q/tree/master/0645-set-mismatch) |
