@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0119-pascals-triangle-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/nb5542-ui/leetcode-q/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/nb5542-ui/leetcode-q/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/nb5542-ui/leetcode-q/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0219-contains-duplicate-ii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/nb5542-ui/leetcode-q/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/nb5542-ui/leetcode-q/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/nb5542-ui/leetcode-q/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/nb5542-ui/leetcode-q/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nb5542-ui/leetcode-q/tree/master/0349-intersection-of-two-arrays) |
