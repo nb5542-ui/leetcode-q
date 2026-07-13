@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/nb5542-ui/leetcode-q/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/nb5542-ui/leetcode-q/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/nb5542-ui/leetcode-q/tree/master/0495-teemo-attacking) |
+| [0506-relative-ranks](https://github.com/nb5542-ui/leetcode-q/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/nb5542-ui/leetcode-q/tree/master/0523-continuous-subarray-sum) |
 | [0561-array-partition](https://github.com/nb5542-ui/leetcode-q/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/nb5542-ui/leetcode-q/tree/master/0594-longest-harmonious-subsequence) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/nb5542-ui/leetcode-q/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/nb5542-ui/leetcode-q/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/nb5542-ui/leetcode-q/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/nb5542-ui/leetcode-q/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/nb5542-ui/leetcode-q/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nb5542-ui/leetcode-q/tree/master/0628-maximum-product-of-three-numbers) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/nb5542-ui/leetcode-q/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/nb5542-ui/leetcode-q/tree/master/0506-relative-ranks) |
 ## Queue
 |  |
 | ------- |
