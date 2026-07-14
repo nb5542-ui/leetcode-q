@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nb5542-ui/leetcode-q/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0848-shifting-letters](https://github.com/nb5542-ui/leetcode-q/tree/master/0848-shifting-letters) |
 | [1046-last-stone-weight](https://github.com/nb5542-ui/leetcode-q/tree/master/1046-last-stone-weight) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nb5542-ui/leetcode-q/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/nb5542-ui/leetcode-q/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nb5542-ui/leetcode-q/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/nb5542-ui/leetcode-q/tree/master/0645-set-mismatch) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nb5542-ui/leetcode-q/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nb5542-ui/leetcode-q/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/nb5542-ui/leetcode-q/tree/master/0506-relative-ranks) |
 | [1046-last-stone-weight](https://github.com/nb5542-ui/leetcode-q/tree/master/1046-last-stone-weight) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nb5542-ui/leetcode-q/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Queue
 |  |
 | ------- |
