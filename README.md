@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/nb5542-ui/leetcode-q/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nb5542-ui/leetcode-q/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0848-shifting-letters](https://github.com/nb5542-ui/leetcode-q/tree/master/0848-shifting-letters) |
+| [1046-last-stone-weight](https://github.com/nb5542-ui/leetcode-q/tree/master/1046-last-stone-weight) |
 ## Simulation
 |  |
 | ------- |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/nb5542-ui/leetcode-q/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/nb5542-ui/leetcode-q/tree/master/0506-relative-ranks) |
+| [1046-last-stone-weight](https://github.com/nb5542-ui/leetcode-q/tree/master/1046-last-stone-weight) |
 ## Queue
 |  |
 | ------- |
