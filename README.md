@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/nb5542-ui/leetcode-q/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/nb5542-ui/leetcode-q/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/nb5542-ui/leetcode-q/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/nb5542-ui/leetcode-q/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/nb5542-ui/leetcode-q/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nb5542-ui/leetcode-q/tree/master/0349-intersection-of-two-arrays) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/nb5542-ui/leetcode-q/tree/master/0029-divide-two-integers) |
 | [0187-repeated-dna-sequences](https://github.com/nb5542-ui/leetcode-q/tree/master/0187-repeated-dna-sequences) |
+| [0222-count-complete-tree-nodes](https://github.com/nb5542-ui/leetcode-q/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/nb5542-ui/leetcode-q/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/nb5542-ui/leetcode-q/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/nb5542-ui/leetcode-q/tree/master/0338-counting-bits) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/nb5542-ui/leetcode-q/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/nb5542-ui/leetcode-q/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nb5542-ui/leetcode-q/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/nb5542-ui/leetcode-q/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/nb5542-ui/leetcode-q/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/nb5542-ui/leetcode-q/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nb5542-ui/leetcode-q/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/nb5542-ui/leetcode-q/tree/master/0222-count-complete-tree-nodes) |
 ## Trie
 |  |
 | ------- |
