@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/nb5542-ui/leetcode-q/tree/master/0228-summary-ranges) |
+| [0238-product-of-array-except-self](https://github.com/nb5542-ui/leetcode-q/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/nb5542-ui/leetcode-q/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nb5542-ui/leetcode-q/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/nb5542-ui/leetcode-q/tree/master/0347-top-k-frequent-elements) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/nb5542-ui/leetcode-q/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/nb5542-ui/leetcode-q/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/nb5542-ui/leetcode-q/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/nb5542-ui/leetcode-q/tree/master/0724-find-pivot-index) |
 | [0848-shifting-letters](https://github.com/nb5542-ui/leetcode-q/tree/master/0848-shifting-letters) |
