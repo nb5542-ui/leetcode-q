@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/nb5542-ui/leetcode-q/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nb5542-ui/leetcode-q/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/nb5542-ui/leetcode-q/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/nb5542-ui/leetcode-q/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nb5542-ui/leetcode-q/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/nb5542-ui/leetcode-q/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/nb5542-ui/leetcode-q/tree/master/0450-delete-node-in-a-bst) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/nb5542-ui/leetcode-q/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/nb5542-ui/leetcode-q/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nb5542-ui/leetcode-q/tree/master/0144-binary-tree-preorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/nb5542-ui/leetcode-q/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nb5542-ui/leetcode-q/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/nb5542-ui/leetcode-q/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/nb5542-ui/leetcode-q/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nb5542-ui/leetcode-q/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/nb5542-ui/leetcode-q/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/nb5542-ui/leetcode-q/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nb5542-ui/leetcode-q/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/nb5542-ui/leetcode-q/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/nb5542-ui/leetcode-q/tree/master/0450-delete-node-in-a-bst) |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/nb5542-ui/leetcode-q/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/nb5542-ui/leetcode-q/tree/master/0450-delete-node-in-a-bst) |
 ## Backtracking
 |  |
