@@ -3,7 +3,7 @@ class Solution(object):
 
         def dfs(index, prev, curr, count):
 
-            # Base Case
+            
             if index == len(num):
                 return count >= 3
 
@@ -11,13 +11,13 @@ class Solution(object):
 
                 part = num[index:end + 1]
 
-                # Leading zero check
+                
                 if len(part) > 1 and part[0] == '0':
                     break
 
                 value = int(part)
 
-                # First two numbers
+                
                 if count < 2:
                     if dfs(end + 1, curr, value, count + 1):
                         return True
