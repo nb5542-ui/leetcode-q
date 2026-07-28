@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nb5542-ui/leetcode-q/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/nb5542-ui/leetcode-q/tree/master/0055-jump-game) |
+| [0096-unique-binary-search-trees](https://github.com/nb5542-ui/leetcode-q/tree/master/0096-unique-binary-search-trees) |
 | [0119-pascals-triangle-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0119-pascals-triangle-ii) |
 | [0264-ugly-number-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/nb5542-ui/leetcode-q/tree/master/0300-longest-increasing-subsequence) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nb5542-ui/leetcode-q/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/nb5542-ui/leetcode-q/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/nb5542-ui/leetcode-q/tree/master/0043-multiply-strings) |
+| [0096-unique-binary-search-trees](https://github.com/nb5542-ui/leetcode-q/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/nb5542-ui/leetcode-q/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/nb5542-ui/leetcode-q/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/nb5542-ui/leetcode-q/tree/master/0204-count-primes) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nb5542-ui/leetcode-q/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/nb5542-ui/leetcode-q/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/nb5542-ui/leetcode-q/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/nb5542-ui/leetcode-q/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/nb5542-ui/leetcode-q/tree/master/0101-symmetric-tree) |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nb5542-ui/leetcode-q/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/nb5542-ui/leetcode-q/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/nb5542-ui/leetcode-q/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/nb5542-ui/leetcode-q/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/nb5542-ui/leetcode-q/tree/master/0101-symmetric-tree) |
@@ -428,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/nb5542-ui/leetcode-q/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/nb5542-ui/leetcode-q/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nb5542-ui/leetcode-q/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/nb5542-ui/leetcode-q/tree/master/0450-delete-node-in-a-bst) |
