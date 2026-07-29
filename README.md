@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/nb5542-ui/leetcode-q/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/nb5542-ui/leetcode-q/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/nb5542-ui/leetcode-q/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/nb5542-ui/leetcode-q/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/nb5542-ui/leetcode-q/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/nb5542-ui/leetcode-q/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/nb5542-ui/leetcode-q/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/nb5542-ui/leetcode-q/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/nb5542-ui/leetcode-q/tree/master/0179-largest-number) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/nb5542-ui/leetcode-q/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/nb5542-ui/leetcode-q/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nb5542-ui/leetcode-q/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/nb5542-ui/leetcode-q/tree/master/0049-group-anagrams) |
 | [0187-repeated-dna-sequences](https://github.com/nb5542-ui/leetcode-q/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/nb5542-ui/leetcode-q/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/nb5542-ui/leetcode-q/tree/master/0205-isomorphic-strings) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nb5542-ui/leetcode-q/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nb5542-ui/leetcode-q/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/nb5542-ui/leetcode-q/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/nb5542-ui/leetcode-q/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/nb5542-ui/leetcode-q/tree/master/0058-length-of-last-word) |
 | [0093-restore-ip-addresses](https://github.com/nb5542-ui/leetcode-q/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/nb5542-ui/leetcode-q/tree/master/0125-valid-palindrome) |
