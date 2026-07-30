@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/nb5542-ui/leetcode-q/tree/master/0096-unique-binary-search-trees) |
 | [0119-pascals-triangle-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0119-pascals-triangle-ii) |
 | [0264-ugly-number-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/nb5542-ui/leetcode-q/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/nb5542-ui/leetcode-q/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/nb5542-ui/leetcode-q/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/nb5542-ui/leetcode-q/tree/master/0337-house-robber-iii) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/nb5542-ui/leetcode-q/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/nb5542-ui/leetcode-q/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/nb5542-ui/leetcode-q/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/nb5542-ui/leetcode-q/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nb5542-ui/leetcode-q/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/nb5542-ui/leetcode-q/tree/master/0367-valid-perfect-square) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/nb5542-ui/leetcode-q/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nb5542-ui/leetcode-q/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nb5542-ui/leetcode-q/tree/master/0112-path-sum) |
+| [0279-perfect-squares](https://github.com/nb5542-ui/leetcode-q/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/nb5542-ui/leetcode-q/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/nb5542-ui/leetcode-q/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
