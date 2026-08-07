@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/nb5542-ui/leetcode-q/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/nb5542-ui/leetcode-q/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/nb5542-ui/leetcode-q/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/nb5542-ui/leetcode-q/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0215-kth-largest-element-in-an-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/nb5542-ui/leetcode-q/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nb5542-ui/leetcode-q/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/nb5542-ui/leetcode-q/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/nb5542-ui/leetcode-q/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/nb5542-ui/leetcode-q/tree/master/0283-move-zeroes) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/nb5542-ui/leetcode-q/tree/master/0043-multiply-strings) |
 | [0096-unique-binary-search-trees](https://github.com/nb5542-ui/leetcode-q/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/nb5542-ui/leetcode-q/tree/master/0168-excel-sheet-column-title) |
+| [0189-rotate-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/nb5542-ui/leetcode-q/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/nb5542-ui/leetcode-q/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/nb5542-ui/leetcode-q/tree/master/0223-rectangle-area) |
