@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/nb5542-ui/leetcode-q/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/nb5542-ui/leetcode-q/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/nb5542-ui/leetcode-q/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/nb5542-ui/leetcode-q/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nb5542-ui/leetcode-q/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nb5542-ui/leetcode-q/tree/master/0300-longest-increasing-subsequence) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/nb5542-ui/leetcode-q/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/nb5542-ui/leetcode-q/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/nb5542-ui/leetcode-q/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nb5542-ui/leetcode-q/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/nb5542-ui/leetcode-q/tree/master/0274-h-index) |
 | [0299-bulls-and-cows](https://github.com/nb5542-ui/leetcode-q/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/nb5542-ui/leetcode-q/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/nb5542-ui/leetcode-q/tree/master/0383-ransom-note) |
