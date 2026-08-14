@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nb5542-ui/leetcode-q/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/nb5542-ui/leetcode-q/tree/master/0055-jump-game) |
+| [0091-decode-ways](https://github.com/nb5542-ui/leetcode-q/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/nb5542-ui/leetcode-q/tree/master/0096-unique-binary-search-trees) |
 | [0119-pascals-triangle-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0119-pascals-triangle-ii) |
 | [0264-ugly-number-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0264-ugly-number-ii) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/nb5542-ui/leetcode-q/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/nb5542-ui/leetcode-q/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/nb5542-ui/leetcode-q/tree/master/0058-length-of-last-word) |
+| [0091-decode-ways](https://github.com/nb5542-ui/leetcode-q/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/nb5542-ui/leetcode-q/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/nb5542-ui/leetcode-q/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/nb5542-ui/leetcode-q/tree/master/0168-excel-sheet-column-title) |
