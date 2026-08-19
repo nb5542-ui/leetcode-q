@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/nb5542-ui/leetcode-q/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nb5542-ui/leetcode-q/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/nb5542-ui/leetcode-q/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/nb5542-ui/leetcode-q/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/nb5542-ui/leetcode-q/tree/master/0234-palindrome-linked-list) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nb5542-ui/leetcode-q/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/nb5542-ui/leetcode-q/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/nb5542-ui/leetcode-q/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/nb5542-ui/leetcode-q/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0229-majority-element-ii) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/nb5542-ui/leetcode-q/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/nb5542-ui/leetcode-q/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0148-sort-list](https://github.com/nb5542-ui/leetcode-q/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/nb5542-ui/leetcode-q/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/nb5542-ui/leetcode-q/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/nb5542-ui/leetcode-q/tree/master/0234-palindrome-linked-list) |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/nb5542-ui/leetcode-q/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/nb5542-ui/leetcode-q/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
@@ -495,4 +499,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/nb5542-ui/leetcode-q/tree/master/0046-permutations) |
 | [0093-restore-ip-addresses](https://github.com/nb5542-ui/leetcode-q/tree/master/0093-restore-ip-addresses) |
 | [0306-additive-number](https://github.com/nb5542-ui/leetcode-q/tree/master/0306-additive-number) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/nb5542-ui/leetcode-q/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
