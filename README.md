@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/nb5542-ui/leetcode-q/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/nb5542-ui/leetcode-q/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/nb5542-ui/leetcode-q/tree/master/0338-counting-bits) |
+| [0357-count-numbers-with-unique-digits](https://github.com/nb5542-ui/leetcode-q/tree/master/0357-count-numbers-with-unique-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/nb5542-ui/leetcode-q/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/nb5542-ui/leetcode-q/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nb5542-ui/leetcode-q/tree/master/0342-power-of-four) |
+| [0357-count-numbers-with-unique-digits](https://github.com/nb5542-ui/leetcode-q/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/nb5542-ui/leetcode-q/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/nb5542-ui/leetcode-q/tree/master/0400-nth-digit) |
 | [0492-construct-the-rectangle](https://github.com/nb5542-ui/leetcode-q/tree/master/0492-construct-the-rectangle) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/nb5542-ui/leetcode-q/tree/master/0046-permutations) |
 | [0093-restore-ip-addresses](https://github.com/nb5542-ui/leetcode-q/tree/master/0093-restore-ip-addresses) |
 | [0306-additive-number](https://github.com/nb5542-ui/leetcode-q/tree/master/0306-additive-number) |
+| [0357-count-numbers-with-unique-digits](https://github.com/nb5542-ui/leetcode-q/tree/master/0357-count-numbers-with-unique-digits) |
 ## Merge Sort
 |  |
 | ------- |
