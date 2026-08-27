@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/nb5542-ui/leetcode-q/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/nb5542-ui/leetcode-q/tree/master/0692-top-k-frequent-words) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nb5542-ui/leetcode-q/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nb5542-ui/leetcode-q/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/nb5542-ui/leetcode-q/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/nb5542-ui/leetcode-q/tree/master/0561-array-partition) |
 | [0948-bag-of-tokens](https://github.com/nb5542-ui/leetcode-q/tree/master/0948-bag-of-tokens) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nb5542-ui/leetcode-q/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Math
 |  |
 | ------- |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/nb5542-ui/leetcode-q/tree/master/0692-top-k-frequent-words) |
 | [0848-shifting-letters](https://github.com/nb5542-ui/leetcode-q/tree/master/0848-shifting-letters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nb5542-ui/leetcode-q/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nb5542-ui/leetcode-q/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String Matching
 |  |
 | ------- |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/nb5542-ui/leetcode-q/tree/master/0204-count-primes) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nb5542-ui/leetcode-q/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Number Theory
 |  |
 | ------- |
@@ -356,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/nb5542-ui/leetcode-q/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/nb5542-ui/leetcode-q/tree/master/0692-top-k-frequent-words) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nb5542-ui/leetcode-q/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nb5542-ui/leetcode-q/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Interactive
 |  |
 | ------- |
