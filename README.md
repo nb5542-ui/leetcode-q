@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/nb5542-ui/leetcode-q/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/nb5542-ui/leetcode-q/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/nb5542-ui/leetcode-q/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/nb5542-ui/leetcode-q/tree/master/0495-teemo-attacking) |
 | [0506-relative-ranks](https://github.com/nb5542-ui/leetcode-q/tree/master/0506-relative-ranks) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/nb5542-ui/leetcode-q/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/nb5542-ui/leetcode-q/tree/master/0374-guess-number-higher-or-lower) |
 | [0400-nth-digit](https://github.com/nb5542-ui/leetcode-q/tree/master/0400-nth-digit) |
+| [0475-heaters](https://github.com/nb5542-ui/leetcode-q/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0633-sum-of-square-numbers](https://github.com/nb5542-ui/leetcode-q/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/nb5542-ui/leetcode-q/tree/master/0658-find-k-closest-elements) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nb5542-ui/leetcode-q/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/nb5542-ui/leetcode-q/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/nb5542-ui/leetcode-q/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0556-next-greater-element-iii](https://github.com/nb5542-ui/leetcode-q/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nb5542-ui/leetcode-q/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/nb5542-ui/leetcode-q/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/nb5542-ui/leetcode-q/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/nb5542-ui/leetcode-q/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/nb5542-ui/leetcode-q/tree/master/0506-relative-ranks) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/nb5542-ui/leetcode-q/tree/master/0539-minimum-time-difference) |
