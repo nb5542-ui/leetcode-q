@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/nb5542-ui/leetcode-q/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/nb5542-ui/leetcode-q/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/nb5542-ui/leetcode-q/tree/master/0724-find-pivot-index) |
+| [0729-my-calendar-i](https://github.com/nb5542-ui/leetcode-q/tree/master/0729-my-calendar-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nb5542-ui/leetcode-q/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/nb5542-ui/leetcode-q/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0848-shifting-letters](https://github.com/nb5542-ui/leetcode-q/tree/master/0848-shifting-letters) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/nb5542-ui/leetcode-q/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/nb5542-ui/leetcode-q/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/nb5542-ui/leetcode-q/tree/master/0704-binary-search) |
+| [0729-my-calendar-i](https://github.com/nb5542-ui/leetcode-q/tree/master/0729-my-calendar-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nb5542-ui/leetcode-q/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/nb5542-ui/leetcode-q/tree/master/1004-max-consecutive-ones-iii) |
 | [2831-find-the-longest-equal-subarray](https://github.com/nb5542-ui/leetcode-q/tree/master/2831-find-the-longest-equal-subarray) |
@@ -566,4 +568,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/nb5542-ui/leetcode-q/tree/master/0856-score-of-parentheses) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/nb5542-ui/leetcode-q/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/nb5542-ui/leetcode-q/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/nb5542-ui/leetcode-q/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
