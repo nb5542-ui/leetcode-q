@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nb5542-ui/leetcode-q/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/nb5542-ui/leetcode-q/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0848-shifting-letters](https://github.com/nb5542-ui/leetcode-q/tree/master/0848-shifting-letters) |
+| [0905-sort-array-by-parity](https://github.com/nb5542-ui/leetcode-q/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0922-sort-array-by-parity-ii) |
 | [0948-bag-of-tokens](https://github.com/nb5542-ui/leetcode-q/tree/master/0948-bag-of-tokens) |
 | [1004-max-consecutive-ones-iii](https://github.com/nb5542-ui/leetcode-q/tree/master/1004-max-consecutive-ones-iii) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/nb5542-ui/leetcode-q/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/nb5542-ui/leetcode-q/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/nb5542-ui/leetcode-q/tree/master/0658-find-k-closest-elements) |
+| [0905-sort-array-by-parity](https://github.com/nb5542-ui/leetcode-q/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0922-sort-array-by-parity-ii) |
 | [0948-bag-of-tokens](https://github.com/nb5542-ui/leetcode-q/tree/master/0948-bag-of-tokens) |
 ## Sorting
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/nb5542-ui/leetcode-q/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/nb5542-ui/leetcode-q/tree/master/0692-top-k-frequent-words) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/nb5542-ui/leetcode-q/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0905-sort-array-by-parity](https://github.com/nb5542-ui/leetcode-q/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0922-sort-array-by-parity-ii) |
 | [0948-bag-of-tokens](https://github.com/nb5542-ui/leetcode-q/tree/master/0948-bag-of-tokens) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nb5542-ui/leetcode-q/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
