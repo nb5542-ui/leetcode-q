@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/nb5542-ui/leetcode-q/tree/master/0729-my-calendar-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nb5542-ui/leetcode-q/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/nb5542-ui/leetcode-q/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0821-shortest-distance-to-a-character](https://github.com/nb5542-ui/leetcode-q/tree/master/0821-shortest-distance-to-a-character) |
 | [0848-shifting-letters](https://github.com/nb5542-ui/leetcode-q/tree/master/0848-shifting-letters) |
 | [0905-sort-array-by-parity](https://github.com/nb5542-ui/leetcode-q/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0922-sort-array-by-parity-ii) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/nb5542-ui/leetcode-q/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/nb5542-ui/leetcode-q/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/nb5542-ui/leetcode-q/tree/master/0658-find-k-closest-elements) |
+| [0821-shortest-distance-to-a-character](https://github.com/nb5542-ui/leetcode-q/tree/master/0821-shortest-distance-to-a-character) |
 | [0905-sort-array-by-parity](https://github.com/nb5542-ui/leetcode-q/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0922-sort-array-by-parity-ii) |
 | [0948-bag-of-tokens](https://github.com/nb5542-ui/leetcode-q/tree/master/0948-bag-of-tokens) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/nb5542-ui/leetcode-q/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nb5542-ui/leetcode-q/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0692-top-k-frequent-words](https://github.com/nb5542-ui/leetcode-q/tree/master/0692-top-k-frequent-words) |
+| [0821-shortest-distance-to-a-character](https://github.com/nb5542-ui/leetcode-q/tree/master/0821-shortest-distance-to-a-character) |
 | [0848-shifting-letters](https://github.com/nb5542-ui/leetcode-q/tree/master/0848-shifting-letters) |
 | [0856-score-of-parentheses](https://github.com/nb5542-ui/leetcode-q/tree/master/0856-score-of-parentheses) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nb5542-ui/leetcode-q/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
