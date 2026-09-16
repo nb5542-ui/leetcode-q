@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/nb5542-ui/leetcode-q/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/nb5542-ui/leetcode-q/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/nb5542-ui/leetcode-q/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/nb5542-ui/leetcode-q/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/nb5542-ui/leetcode-q/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nb5542-ui/leetcode-q/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/nb5542-ui/leetcode-q/tree/master/0643-maximum-average-subarray-i) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/nb5542-ui/leetcode-q/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nb5542-ui/leetcode-q/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/nb5542-ui/leetcode-q/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/nb5542-ui/leetcode-q/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/nb5542-ui/leetcode-q/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/nb5542-ui/leetcode-q/tree/master/0692-top-k-frequent-words) |
