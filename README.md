@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/nb5542-ui/leetcode-q/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/nb5542-ui/leetcode-q/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/nb5542-ui/leetcode-q/tree/master/0682-baseball-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/nb5542-ui/leetcode-q/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/nb5542-ui/leetcode-q/tree/master/0848-shifting-letters) |
 | [0856-score-of-parentheses](https://github.com/nb5542-ui/leetcode-q/tree/master/0856-score-of-parentheses) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nb5542-ui/leetcode-q/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3498-reverse-degree-of-a-string](https://github.com/nb5542-ui/leetcode-q/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nb5542-ui/leetcode-q/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String Matching
 |  |
