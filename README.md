@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/nb5542-ui/leetcode-q/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/nb5542-ui/leetcode-q/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/nb5542-ui/leetcode-q/tree/master/0556-next-greater-element-iii) |
+| [0593-valid-square](https://github.com/nb5542-ui/leetcode-q/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nb5542-ui/leetcode-q/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/nb5542-ui/leetcode-q/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/nb5542-ui/leetcode-q/tree/master/0836-rectangle-overlap) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/nb5542-ui/leetcode-q/tree/master/0223-rectangle-area) |
+| [0593-valid-square](https://github.com/nb5542-ui/leetcode-q/tree/master/0593-valid-square) |
 | [0836-rectangle-overlap](https://github.com/nb5542-ui/leetcode-q/tree/master/0836-rectangle-overlap) |
 ## Prefix Sum
 |  |
