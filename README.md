@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/nb5542-ui/leetcode-q/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/nb5542-ui/leetcode-q/tree/master/0279-perfect-squares) |
+| [0292-nim-game](https://github.com/nb5542-ui/leetcode-q/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/nb5542-ui/leetcode-q/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/nb5542-ui/leetcode-q/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nb5542-ui/leetcode-q/tree/master/0342-power-of-four) |
@@ -619,4 +620,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/nb5542-ui/leetcode-q/tree/master/0729-my-calendar-i) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/nb5542-ui/leetcode-q/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/nb5542-ui/leetcode-q/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/nb5542-ui/leetcode-q/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/nb5542-ui/leetcode-q/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/nb5542-ui/leetcode-q/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
