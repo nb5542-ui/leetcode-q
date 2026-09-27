@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/nb5542-ui/leetcode-q/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/nb5542-ui/leetcode-q/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0922-sort-array-by-parity-ii) |
+| [0925-long-pressed-name](https://github.com/nb5542-ui/leetcode-q/tree/master/0925-long-pressed-name) |
 | [0948-bag-of-tokens](https://github.com/nb5542-ui/leetcode-q/tree/master/0948-bag-of-tokens) |
 ## Sorting
 |  |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/nb5542-ui/leetcode-q/tree/master/0821-shortest-distance-to-a-character) |
 | [0848-shifting-letters](https://github.com/nb5542-ui/leetcode-q/tree/master/0848-shifting-letters) |
 | [0856-score-of-parentheses](https://github.com/nb5542-ui/leetcode-q/tree/master/0856-score-of-parentheses) |
+| [0925-long-pressed-name](https://github.com/nb5542-ui/leetcode-q/tree/master/0925-long-pressed-name) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nb5542-ui/leetcode-q/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3498-reverse-degree-of-a-string](https://github.com/nb5542-ui/leetcode-q/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nb5542-ui/leetcode-q/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
