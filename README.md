@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/nb5542-ui/leetcode-q/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/nb5542-ui/leetcode-q/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/nb5542-ui/leetcode-q/tree/master/0367-valid-perfect-square) |
+| [0390-elimination-game](https://github.com/nb5542-ui/leetcode-q/tree/master/0390-elimination-game) |
 | [0400-nth-digit](https://github.com/nb5542-ui/leetcode-q/tree/master/0400-nth-digit) |
 | [0492-construct-the-rectangle](https://github.com/nb5542-ui/leetcode-q/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/nb5542-ui/leetcode-q/tree/master/0504-base-7) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/nb5542-ui/leetcode-q/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/nb5542-ui/leetcode-q/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nb5542-ui/leetcode-q/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/nb5542-ui/leetcode-q/tree/master/0390-elimination-game) |
 ## Enumeration
 |  |
 | ------- |
