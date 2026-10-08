@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/nb5542-ui/leetcode-q/tree/master/0134-gas-station) |
+| [0139-word-break](https://github.com/nb5542-ui/leetcode-q/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/nb5542-ui/leetcode-q/tree/master/0162-find-peak-element) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/nb5542-ui/leetcode-q/tree/master/0096-unique-binary-search-trees) |
 | [0119-pascals-triangle-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/nb5542-ui/leetcode-q/tree/master/0139-word-break) |
 | [0264-ugly-number-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/nb5542-ui/leetcode-q/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/nb5542-ui/leetcode-q/tree/master/0300-longest-increasing-subsequence) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nb5542-ui/leetcode-q/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/nb5542-ui/leetcode-q/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nb5542-ui/leetcode-q/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0139-word-break](https://github.com/nb5542-ui/leetcode-q/tree/master/0139-word-break) |
 | [0166-fraction-to-recurring-decimal](https://github.com/nb5542-ui/leetcode-q/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/nb5542-ui/leetcode-q/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/nb5542-ui/leetcode-q/tree/master/0202-happy-number) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/nb5542-ui/leetcode-q/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/nb5542-ui/leetcode-q/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/nb5542-ui/leetcode-q/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/nb5542-ui/leetcode-q/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/nb5542-ui/leetcode-q/tree/master/0151-reverse-words-in-a-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/nb5542-ui/leetcode-q/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/nb5542-ui/leetcode-q/tree/master/0168-excel-sheet-column-title) |
@@ -608,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/nb5542-ui/leetcode-q/tree/master/0139-word-break) |
 | [0692-top-k-frequent-words](https://github.com/nb5542-ui/leetcode-q/tree/master/0692-top-k-frequent-words) |
 ## Binary Search Tree
 |  |
@@ -682,4 +687,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/nb5542-ui/leetcode-q/tree/master/0976-largest-perimeter-triangle) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/nb5542-ui/leetcode-q/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/nb5542-ui/leetcode-q/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
