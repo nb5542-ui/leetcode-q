@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/nb5542-ui/leetcode-q/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/nb5542-ui/leetcode-q/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/nb5542-ui/leetcode-q/tree/master/0561-array-partition) |
+| [0670-maximum-swap](https://github.com/nb5542-ui/leetcode-q/tree/master/0670-maximum-swap) |
 | [0767-reorganize-string](https://github.com/nb5542-ui/leetcode-q/tree/master/0767-reorganize-string) |
 | [0948-bag-of-tokens](https://github.com/nb5542-ui/leetcode-q/tree/master/0948-bag-of-tokens) |
 | [0976-largest-perimeter-triangle](https://github.com/nb5542-ui/leetcode-q/tree/master/0976-largest-perimeter-triangle) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0593-valid-square](https://github.com/nb5542-ui/leetcode-q/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nb5542-ui/leetcode-q/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/nb5542-ui/leetcode-q/tree/master/0633-sum-of-square-numbers) |
+| [0670-maximum-swap](https://github.com/nb5542-ui/leetcode-q/tree/master/0670-maximum-swap) |
 | [0836-rectangle-overlap](https://github.com/nb5542-ui/leetcode-q/tree/master/0836-rectangle-overlap) |
 | [0976-largest-perimeter-triangle](https://github.com/nb5542-ui/leetcode-q/tree/master/0976-largest-perimeter-triangle) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nb5542-ui/leetcode-q/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
