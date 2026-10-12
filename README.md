@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/nb5542-ui/leetcode-q/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/nb5542-ui/leetcode-q/tree/master/1046-last-stone-weight) |
+| [1051-height-checker](https://github.com/nb5542-ui/leetcode-q/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nb5542-ui/leetcode-q/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/nb5542-ui/leetcode-q/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nb5542-ui/leetcode-q/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/nb5542-ui/leetcode-q/tree/master/0948-bag-of-tokens) |
 | [0976-largest-perimeter-triangle](https://github.com/nb5542-ui/leetcode-q/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/nb5542-ui/leetcode-q/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nb5542-ui/leetcode-q/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nb5542-ui/leetcode-q/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Dynamic Programming
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/nb5542-ui/leetcode-q/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/nb5542-ui/leetcode-q/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/nb5542-ui/leetcode-q/tree/master/0767-reorganize-string) |
+| [1051-height-checker](https://github.com/nb5542-ui/leetcode-q/tree/master/1051-height-checker) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nb5542-ui/leetcode-q/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nb5542-ui/leetcode-q/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Interactive
@@ -702,4 +705,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/nb5542-ui/leetcode-q/tree/master/0139-word-break) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/nb5542-ui/leetcode-q/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
