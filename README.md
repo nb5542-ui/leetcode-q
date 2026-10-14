@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-distant-barcodes](https://github.com/nb5542-ui/leetcode-q/tree/master/1054-distant-barcodes) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nb5542-ui/leetcode-q/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nb5542-ui/leetcode-q/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/nb5542-ui/leetcode-q/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Math
 |  |
 | ------- |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/nb5542-ui/leetcode-q/tree/master/0836-rectangle-overlap) |
 | [0976-largest-perimeter-triangle](https://github.com/nb5542-ui/leetcode-q/tree/master/0976-largest-perimeter-triangle) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nb5542-ui/leetcode-q/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/nb5542-ui/leetcode-q/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nb5542-ui/leetcode-q/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
