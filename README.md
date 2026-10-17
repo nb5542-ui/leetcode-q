@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/nb5542-ui/leetcode-q/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2831-find-the-longest-equal-subarray](https://github.com/nb5542-ui/leetcode-q/tree/master/2831-find-the-longest-equal-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nb5542-ui/leetcode-q/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/nb5542-ui/leetcode-q/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nb5542-ui/leetcode-q/tree/master/3875-construct-uniform-parity-array-i) |
 ## Simulation
 |  |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-distant-barcodes](https://github.com/nb5542-ui/leetcode-q/tree/master/1054-distant-barcodes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nb5542-ui/leetcode-q/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nb5542-ui/leetcode-q/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/nb5542-ui/leetcode-q/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-distant-barcodes](https://github.com/nb5542-ui/leetcode-q/tree/master/1054-distant-barcodes) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nb5542-ui/leetcode-q/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2831-find-the-longest-equal-subarray](https://github.com/nb5542-ui/leetcode-q/tree/master/2831-find-the-longest-equal-subarray) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/nb5542-ui/leetcode-q/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nb5542-ui/leetcode-q/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
