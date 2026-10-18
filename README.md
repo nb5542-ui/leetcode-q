@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/nb5542-ui/leetcode-q/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/nb5542-ui/leetcode-q/tree/master/1051-height-checker) |
 | [1054-distant-barcodes](https://github.com/nb5542-ui/leetcode-q/tree/master/1054-distant-barcodes) |
+| [1122-relative-sort-array](https://github.com/nb5542-ui/leetcode-q/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nb5542-ui/leetcode-q/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/nb5542-ui/leetcode-q/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nb5542-ui/leetcode-q/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/nb5542-ui/leetcode-q/tree/master/1051-height-checker) |
 | [1054-distant-barcodes](https://github.com/nb5542-ui/leetcode-q/tree/master/1054-distant-barcodes) |
+| [1122-relative-sort-array](https://github.com/nb5542-ui/leetcode-q/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nb5542-ui/leetcode-q/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nb5542-ui/leetcode-q/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/nb5542-ui/leetcode-q/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/nb5542-ui/leetcode-q/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/nb5542-ui/leetcode-q/tree/master/0904-fruit-into-baskets) |
 | [1054-distant-barcodes](https://github.com/nb5542-ui/leetcode-q/tree/master/1054-distant-barcodes) |
+| [1122-relative-sort-array](https://github.com/nb5542-ui/leetcode-q/tree/master/1122-relative-sort-array) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nb5542-ui/leetcode-q/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2831-find-the-longest-equal-subarray](https://github.com/nb5542-ui/leetcode-q/tree/master/2831-find-the-longest-equal-subarray) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/nb5542-ui/leetcode-q/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/nb5542-ui/leetcode-q/tree/master/0767-reorganize-string) |
 | [1051-height-checker](https://github.com/nb5542-ui/leetcode-q/tree/master/1051-height-checker) |
 | [1054-distant-barcodes](https://github.com/nb5542-ui/leetcode-q/tree/master/1054-distant-barcodes) |
+| [1122-relative-sort-array](https://github.com/nb5542-ui/leetcode-q/tree/master/1122-relative-sort-array) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nb5542-ui/leetcode-q/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nb5542-ui/leetcode-q/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Interactive
@@ -708,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/nb5542-ui/leetcode-q/tree/master/0976-largest-perimeter-triangle) |
+| [1122-relative-sort-array](https://github.com/nb5542-ui/leetcode-q/tree/master/1122-relative-sort-array) |
 ## Polygons
 |  |
 | ------- |
@@ -724,4 +729,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/nb5542-ui/leetcode-q/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/nb5542-ui/leetcode-q/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
