@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/nb5542-ui/leetcode-q/tree/master/1051-height-checker) |
 | [1054-distant-barcodes](https://github.com/nb5542-ui/leetcode-q/tree/master/1054-distant-barcodes) |
 | [1122-relative-sort-array](https://github.com/nb5542-ui/leetcode-q/tree/master/1122-relative-sort-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nb5542-ui/leetcode-q/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nb5542-ui/leetcode-q/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nb5542-ui/leetcode-q/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/nb5542-ui/leetcode-q/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nb5542-ui/leetcode-q/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/nb5542-ui/leetcode-q/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/nb5542-ui/leetcode-q/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nb5542-ui/leetcode-q/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nb5542-ui/leetcode-q/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/nb5542-ui/leetcode-q/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nb5542-ui/leetcode-q/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/nb5542-ui/leetcode-q/tree/master/0925-long-pressed-name) |
 | [0948-bag-of-tokens](https://github.com/nb5542-ui/leetcode-q/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nb5542-ui/leetcode-q/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nb5542-ui/leetcode-q/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/nb5542-ui/leetcode-q/tree/master/1051-height-checker) |
 | [1054-distant-barcodes](https://github.com/nb5542-ui/leetcode-q/tree/master/1054-distant-barcodes) |
 | [1122-relative-sort-array](https://github.com/nb5542-ui/leetcode-q/tree/master/1122-relative-sort-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nb5542-ui/leetcode-q/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nb5542-ui/leetcode-q/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nb5542-ui/leetcode-q/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nb5542-ui/leetcode-q/tree/master/2089-find-target-indices-after-sorting-array) |
