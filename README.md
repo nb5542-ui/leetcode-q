@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/nb5542-ui/leetcode-q/tree/master/1051-height-checker) |
 | [1054-distant-barcodes](https://github.com/nb5542-ui/leetcode-q/tree/master/1054-distant-barcodes) |
 | [1122-relative-sort-array](https://github.com/nb5542-ui/leetcode-q/tree/master/1122-relative-sort-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nb5542-ui/leetcode-q/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nb5542-ui/leetcode-q/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nb5542-ui/leetcode-q/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nb5542-ui/leetcode-q/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/nb5542-ui/leetcode-q/tree/master/1051-height-checker) |
 | [1054-distant-barcodes](https://github.com/nb5542-ui/leetcode-q/tree/master/1054-distant-barcodes) |
 | [1122-relative-sort-array](https://github.com/nb5542-ui/leetcode-q/tree/master/1122-relative-sort-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nb5542-ui/leetcode-q/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nb5542-ui/leetcode-q/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nb5542-ui/leetcode-q/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nb5542-ui/leetcode-q/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/nb5542-ui/leetcode-q/tree/master/0904-fruit-into-baskets) |
 | [1054-distant-barcodes](https://github.com/nb5542-ui/leetcode-q/tree/master/1054-distant-barcodes) |
 | [1122-relative-sort-array](https://github.com/nb5542-ui/leetcode-q/tree/master/1122-relative-sort-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nb5542-ui/leetcode-q/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nb5542-ui/leetcode-q/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2831-find-the-longest-equal-subarray](https://github.com/nb5542-ui/leetcode-q/tree/master/2831-find-the-longest-equal-subarray) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/nb5542-ui/leetcode-q/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/nb5542-ui/leetcode-q/tree/master/1051-height-checker) |
 | [1054-distant-barcodes](https://github.com/nb5542-ui/leetcode-q/tree/master/1054-distant-barcodes) |
 | [1122-relative-sort-array](https://github.com/nb5542-ui/leetcode-q/tree/master/1122-relative-sort-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nb5542-ui/leetcode-q/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nb5542-ui/leetcode-q/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nb5542-ui/leetcode-q/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Interactive
