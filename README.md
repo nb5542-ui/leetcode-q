@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/nb5542-ui/leetcode-q/tree/master/0948-bag-of-tokens) |
 | [0976-largest-perimeter-triangle](https://github.com/nb5542-ui/leetcode-q/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0977-squares-of-a-sorted-array) |
+| [0978-longest-turbulent-subarray](https://github.com/nb5542-ui/leetcode-q/tree/master/0978-longest-turbulent-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/nb5542-ui/leetcode-q/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/nb5542-ui/leetcode-q/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/nb5542-ui/leetcode-q/tree/master/1051-height-checker) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/nb5542-ui/leetcode-q/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/nb5542-ui/leetcode-q/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/nb5542-ui/leetcode-q/tree/master/0357-count-numbers-with-unique-digits) |
+| [0978-longest-turbulent-subarray](https://github.com/nb5542-ui/leetcode-q/tree/master/0978-longest-turbulent-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/nb5542-ui/leetcode-q/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/nb5542-ui/leetcode-q/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/nb5542-ui/leetcode-q/tree/master/0904-fruit-into-baskets) |
+| [0978-longest-turbulent-subarray](https://github.com/nb5542-ui/leetcode-q/tree/master/0978-longest-turbulent-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/nb5542-ui/leetcode-q/tree/master/1004-max-consecutive-ones-iii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nb5542-ui/leetcode-q/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2831-find-the-longest-equal-subarray](https://github.com/nb5542-ui/leetcode-q/tree/master/2831-find-the-longest-equal-subarray) |
