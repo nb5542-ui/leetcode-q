@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/nb5542-ui/leetcode-q/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/nb5542-ui/leetcode-q/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/nb5542-ui/leetcode-q/tree/master/0149-max-points-on-a-line) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/nb5542-ui/leetcode-q/tree/master/0162-find-peak-element) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nb5542-ui/leetcode-q/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/nb5542-ui/leetcode-q/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/nb5542-ui/leetcode-q/tree/master/0141-linked-list-cycle) |
+| [0149-max-points-on-a-line](https://github.com/nb5542-ui/leetcode-q/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/nb5542-ui/leetcode-q/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/nb5542-ui/leetcode-q/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/nb5542-ui/leetcode-q/tree/master/0202-happy-number) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/nb5542-ui/leetcode-q/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/nb5542-ui/leetcode-q/tree/master/0043-multiply-strings) |
 | [0096-unique-binary-search-trees](https://github.com/nb5542-ui/leetcode-q/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/nb5542-ui/leetcode-q/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/nb5542-ui/leetcode-q/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/nb5542-ui/leetcode-q/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0189-rotate-array) |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/nb5542-ui/leetcode-q/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/nb5542-ui/leetcode-q/tree/master/0223-rectangle-area) |
 | [0593-valid-square](https://github.com/nb5542-ui/leetcode-q/tree/master/0593-valid-square) |
 | [0836-rectangle-overlap](https://github.com/nb5542-ui/leetcode-q/tree/master/0836-rectangle-overlap) |
@@ -779,4 +783,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/nb5542-ui/leetcode-q/tree/master/0141-linked-list-cycle) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/nb5542-ui/leetcode-q/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/nb5542-ui/leetcode-q/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
