@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nb5542-ui/leetcode-q/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/nb5542-ui/leetcode-q/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0821-shortest-distance-to-a-character](https://github.com/nb5542-ui/leetcode-q/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/nb5542-ui/leetcode-q/tree/master/0832-flipping-an-image) |
 | [0846-hand-of-straights](https://github.com/nb5542-ui/leetcode-q/tree/master/0846-hand-of-straights) |
 | [0848-shifting-letters](https://github.com/nb5542-ui/leetcode-q/tree/master/0848-shifting-letters) |
 | [0875-koko-eating-bananas](https://github.com/nb5542-ui/leetcode-q/tree/master/0875-koko-eating-bananas) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/nb5542-ui/leetcode-q/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/nb5542-ui/leetcode-q/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/nb5542-ui/leetcode-q/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/nb5542-ui/leetcode-q/tree/master/0832-flipping-an-image) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/nb5542-ui/leetcode-q/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [3498-reverse-degree-of-a-string](https://github.com/nb5542-ui/leetcode-q/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/nb5542-ui/leetcode-q/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/nb5542-ui/leetcode-q/tree/master/0658-find-k-closest-elements) |
 | [0821-shortest-distance-to-a-character](https://github.com/nb5542-ui/leetcode-q/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/nb5542-ui/leetcode-q/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/nb5542-ui/leetcode-q/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/nb5542-ui/leetcode-q/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/nb5542-ui/leetcode-q/tree/master/0917-reverse-only-letters) |
@@ -502,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/nb5542-ui/leetcode-q/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/nb5542-ui/leetcode-q/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/nb5542-ui/leetcode-q/tree/master/0645-set-mismatch) |
+| [0832-flipping-an-image](https://github.com/nb5542-ui/leetcode-q/tree/master/0832-flipping-an-image) |
 ## Counting Sort
 |  |
 | ------- |
@@ -791,4 +795,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/nb5542-ui/leetcode-q/tree/master/0149-max-points-on-a-line) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/nb5542-ui/leetcode-q/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
