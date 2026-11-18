@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/nb5542-ui/leetcode-q/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/nb5542-ui/leetcode-q/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/nb5542-ui/leetcode-q/tree/master/0905-sort-array-by-parity) |
+| [0910-smallest-range-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0910-smallest-range-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0922-sort-array-by-parity-ii) |
 | [0948-bag-of-tokens](https://github.com/nb5542-ui/leetcode-q/tree/master/0948-bag-of-tokens) |
 | [0976-largest-perimeter-triangle](https://github.com/nb5542-ui/leetcode-q/tree/master/0976-largest-perimeter-triangle) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/nb5542-ui/leetcode-q/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/nb5542-ui/leetcode-q/tree/master/0846-hand-of-straights) |
 | [0905-sort-array-by-parity](https://github.com/nb5542-ui/leetcode-q/tree/master/0905-sort-array-by-parity) |
+| [0910-smallest-range-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0910-smallest-range-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0922-sort-array-by-parity-ii) |
 | [0948-bag-of-tokens](https://github.com/nb5542-ui/leetcode-q/tree/master/0948-bag-of-tokens) |
 | [0976-largest-perimeter-triangle](https://github.com/nb5542-ui/leetcode-q/tree/master/0976-largest-perimeter-triangle) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/nb5542-ui/leetcode-q/tree/master/0670-maximum-swap) |
 | [0767-reorganize-string](https://github.com/nb5542-ui/leetcode-q/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/nb5542-ui/leetcode-q/tree/master/0846-hand-of-straights) |
+| [0910-smallest-range-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0910-smallest-range-ii) |
 | [0948-bag-of-tokens](https://github.com/nb5542-ui/leetcode-q/tree/master/0948-bag-of-tokens) |
 | [0976-largest-perimeter-triangle](https://github.com/nb5542-ui/leetcode-q/tree/master/0976-largest-perimeter-triangle) |
 | [0984-string-without-aaa-or-bbb](https://github.com/nb5542-ui/leetcode-q/tree/master/0984-string-without-aaa-or-bbb) |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/nb5542-ui/leetcode-q/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/nb5542-ui/leetcode-q/tree/master/0670-maximum-swap) |
 | [0836-rectangle-overlap](https://github.com/nb5542-ui/leetcode-q/tree/master/0836-rectangle-overlap) |
+| [0910-smallest-range-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0910-smallest-range-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/nb5542-ui/leetcode-q/tree/master/0976-largest-perimeter-triangle) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nb5542-ui/leetcode-q/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/nb5542-ui/leetcode-q/tree/master/3723-maximize-sum-of-squares-of-digits) |
