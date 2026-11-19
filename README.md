@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/nb5542-ui/leetcode-q/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nb5542-ui/leetcode-q/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1768-merge-strings-alternately](https://github.com/nb5542-ui/leetcode-q/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nb5542-ui/leetcode-q/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/nb5542-ui/leetcode-q/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/nb5542-ui/leetcode-q/tree/master/0925-long-pressed-name) |
 | [0984-string-without-aaa-or-bbb](https://github.com/nb5542-ui/leetcode-q/tree/master/0984-string-without-aaa-or-bbb) |
+| [1768-merge-strings-alternately](https://github.com/nb5542-ui/leetcode-q/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nb5542-ui/leetcode-q/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3498-reverse-degree-of-a-string](https://github.com/nb5542-ui/leetcode-q/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nb5542-ui/leetcode-q/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
