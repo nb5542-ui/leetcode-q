@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nb5542-ui/leetcode-q/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nb5542-ui/leetcode-q/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/nb5542-ui/leetcode-q/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/nb5542-ui/leetcode-q/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0475-heaters](https://github.com/nb5542-ui/leetcode-q/tree/master/0475-heaters) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/nb5542-ui/leetcode-q/tree/master/0367-valid-perfect-square) |
 | [0390-elimination-game](https://github.com/nb5542-ui/leetcode-q/tree/master/0390-elimination-game) |
 | [0400-nth-digit](https://github.com/nb5542-ui/leetcode-q/tree/master/0400-nth-digit) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/nb5542-ui/leetcode-q/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0492-construct-the-rectangle](https://github.com/nb5542-ui/leetcode-q/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/nb5542-ui/leetcode-q/tree/master/0504-base-7) |
