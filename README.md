@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nb5542-ui/leetcode-q/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nb5542-ui/leetcode-q/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nb5542-ui/leetcode-q/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1818-minimum-absolute-sum-difference](https://github.com/nb5542-ui/leetcode-q/tree/master/1818-minimum-absolute-sum-difference) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/nb5542-ui/leetcode-q/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nb5542-ui/leetcode-q/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nb5542-ui/leetcode-q/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/nb5542-ui/leetcode-q/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nb5542-ui/leetcode-q/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nb5542-ui/leetcode-q/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1818-minimum-absolute-sum-difference](https://github.com/nb5542-ui/leetcode-q/tree/master/1818-minimum-absolute-sum-difference) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/nb5542-ui/leetcode-q/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nb5542-ui/leetcode-q/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nb5542-ui/leetcode-q/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nb5542-ui/leetcode-q/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nb5542-ui/leetcode-q/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nb5542-ui/leetcode-q/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1818-minimum-absolute-sum-difference](https://github.com/nb5542-ui/leetcode-q/tree/master/1818-minimum-absolute-sum-difference) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nb5542-ui/leetcode-q/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nb5542-ui/leetcode-q/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/nb5542-ui/leetcode-q/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -750,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/nb5542-ui/leetcode-q/tree/master/0729-my-calendar-i) |
+| [1818-minimum-absolute-sum-difference](https://github.com/nb5542-ui/leetcode-q/tree/master/1818-minimum-absolute-sum-difference) |
 ## Brainteaser
 |  |
 | ------- |
