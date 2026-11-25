@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/nb5542-ui/leetcode-q/tree/master/0729-my-calendar-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nb5542-ui/leetcode-q/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/nb5542-ui/leetcode-q/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0812-largest-triangle-area](https://github.com/nb5542-ui/leetcode-q/tree/master/0812-largest-triangle-area) |
 | [0821-shortest-distance-to-a-character](https://github.com/nb5542-ui/leetcode-q/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/nb5542-ui/leetcode-q/tree/master/0832-flipping-an-image) |
 | [0846-hand-of-straights](https://github.com/nb5542-ui/leetcode-q/tree/master/0846-hand-of-straights) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/nb5542-ui/leetcode-q/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/nb5542-ui/leetcode-q/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/nb5542-ui/leetcode-q/tree/master/0670-maximum-swap) |
+| [0812-largest-triangle-area](https://github.com/nb5542-ui/leetcode-q/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/nb5542-ui/leetcode-q/tree/master/0836-rectangle-overlap) |
 | [0910-smallest-range-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0910-smallest-range-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/nb5542-ui/leetcode-q/tree/master/0976-largest-perimeter-triangle) |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/nb5542-ui/leetcode-q/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/nb5542-ui/leetcode-q/tree/master/0223-rectangle-area) |
 | [0593-valid-square](https://github.com/nb5542-ui/leetcode-q/tree/master/0593-valid-square) |
+| [0812-largest-triangle-area](https://github.com/nb5542-ui/leetcode-q/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/nb5542-ui/leetcode-q/tree/master/0836-rectangle-overlap) |
 ## Prefix Sum
 |  |
@@ -787,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Polygons
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/nb5542-ui/leetcode-q/tree/master/0812-largest-triangle-area) |
 | [0976-largest-perimeter-triangle](https://github.com/nb5542-ui/leetcode-q/tree/master/0976-largest-perimeter-triangle) |
 ## Memoization
 |  |
