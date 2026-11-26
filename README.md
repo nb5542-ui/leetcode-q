@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/nb5542-ui/leetcode-q/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/nb5542-ui/leetcode-q/tree/master/0832-flipping-an-image) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/nb5542-ui/leetcode-q/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
+| [3360-stone-removal-game](https://github.com/nb5542-ui/leetcode-q/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/nb5542-ui/leetcode-q/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/nb5542-ui/leetcode-q/tree/master/0836-rectangle-overlap) |
 | [0910-smallest-range-ii](https://github.com/nb5542-ui/leetcode-q/tree/master/0910-smallest-range-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/nb5542-ui/leetcode-q/tree/master/0976-largest-perimeter-triangle) |
+| [3360-stone-removal-game](https://github.com/nb5542-ui/leetcode-q/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/nb5542-ui/leetcode-q/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nb5542-ui/leetcode-q/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/nb5542-ui/leetcode-q/tree/master/3723-maximize-sum-of-squares-of-digits) |
